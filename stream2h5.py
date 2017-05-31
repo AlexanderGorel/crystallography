@@ -1,9 +1,7 @@
-####!/usr/local/bin/python
-####!/lfs/l3/extern/agorel/local/python/bin/python2.7
 
 ################################################################### SYNOPSIS
 #
-# convert a CrystFEL .stream file to a .h5 file
+# convert a CrystFEL .stream file to a HDF5 .h5 file
 #
 ################################################################### AUTHOR
 #
