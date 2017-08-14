@@ -10,6 +10,12 @@ A version of h5py newer than 2.6 is required for stream2h5.py.
 
 ################################### Usage
 
+split.py -i <h5file>
+split the .h5 file into a directory with subfiles
+
+collect.py -d <dir>
+collect .h5 files from a directory into a single .h5 file.
+
 write_spectra.py -r <runnumber>
 extract information on spectra for <runnumber> into run<runnumber>.spectra.h5 file from the SACLA metadata database.
 
