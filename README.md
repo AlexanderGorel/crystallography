@@ -3,6 +3,9 @@
 These scripts were developed for two-color data analysis with CrystFEL and published here under the GNU GENERAL PUBLIC LICENSE Version 3.
 The primary citation for these scripts is as follows:
 
+Alexander Gorel, Koji Motomura, Hironobu Fukuzawa, R. Bruce Doak, Marie Luise Grünbein, Mario Hilpert, Ichiro Inoue, Marco Kloos, Gabriela Kovácsová, Eriko Nango, Karol Nass, Christopher M. Roome, Robert L. Shoeman, Rie Tanaka, Kensuke Tono, Yasumasa Joti, Makina Yabashi, So Iwata, Lutz Foucar, Kiyoshi Ueda, Thomas R. M. Barends & Ilme Schlichting. "Multi-wavelength anomalous diffraction de novo phasing using a two-colour X-ray free-electron laser with wide tunability". Nat. Commun. 4, 1170 (2017).
+doi:10.1038/s41467-017-00754-7
+
 ################################### Installation
 
 These scripts come as standalone python modules.
